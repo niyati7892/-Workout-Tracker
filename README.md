@@ -22,7 +22,7 @@ The user should be able to:
 
 ### App screenshot
 ![screenshot1](https://github.com/niyati7892/-Workout-Tracker/blob/main/shot1.png)
-![screenshot2]()
+![screenshot2](https://github.com/niyati7892/-Workout-Tracker/blob/main/shot2.png)
 
 ## Table of contents
 
