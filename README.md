@@ -28,7 +28,6 @@ The user should be able to:
 - [Usage](#Usage)
 - [Licence](#Licence)
 - [Contributors](#Contributors)
-- [Test](#Test)
 - [Repository Link](#Repository)
  
 
@@ -38,15 +37,13 @@ Go to [Workout Tracker]() and save your workouts
 
 ## Licence
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributors
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40niyati7892-orange)
 
-## Test
 
-![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
 
 ## Repository
