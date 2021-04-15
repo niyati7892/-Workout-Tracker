@@ -35,7 +35,7 @@ The user should be able to:
 
 ## Usage
 
-Go to [Workout Tracker]() and save your workouts
+Go to [Workout Tracker](https://peaceful-journey-20198.herokuapp.com/) and save your workouts
 
 ## Licence
 
@@ -49,5 +49,5 @@ Go to [Workout Tracker]() and save your workouts
 ## Repository
 
 - [Project Repo](https://github.com/niyati7892/-Workout-Tracker)
-- [Workout Tracker]()
+- [Workout Tracker](https://peaceful-journey-20198.herokuapp.com/)
 
