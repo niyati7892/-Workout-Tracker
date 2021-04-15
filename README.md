@@ -21,6 +21,8 @@ The user should be able to:
 * As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 ### App screenshot
+![screenshot1](https://github.com/niyati7892/-Workout-Tracker/blob/main/shot1.png)
+![screenshot2]()
 
 ## Table of contents
 
@@ -42,8 +44,6 @@ Go to [Workout Tracker]() and save your workouts
 ## Contributors
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40niyati7892-orange)
-
-
 
 
 ## Repository
