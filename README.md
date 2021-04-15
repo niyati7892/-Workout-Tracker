@@ -48,6 +48,6 @@ Go to [Workout Tracker]() and save your workouts
 
 ## Repository
 
-- [Project Repo]()
+- [Project Repo](https://github.com/niyati7892/-Workout-Tracker)
 - [Workout Tracker]()
 
